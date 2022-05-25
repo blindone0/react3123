@@ -12,6 +12,8 @@ const element =
         </ul>
 ;
 
+console.log(element)
+
 ReactDOM.render(
     
     element

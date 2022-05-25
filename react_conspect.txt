@@ -1,0 +1,31 @@
+Patterns ->
+	1. functional
+	2. components and hooks
+
+140 examples. 
+
+local machine 
+or
+scrimba -> interactive
+
+react
+react router
+react context api
+
+8* + projects by react
+project driven (https://www.youtube.com/watch?v=bMknfKXIFA8)
+
+think in react 
+
+declarative and imperative programming 
+
+first build static web pages 
+
+reusable components of react 
+
+composable - statue of david - one giant single pice 
+lego status a couple of small components 
+
+composing components of larger code 
+
+className instead of class in react ! 
